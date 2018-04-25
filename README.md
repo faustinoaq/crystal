@@ -1,60 +1,53 @@
-# Crystal
+# Mini Crystal
 
-[![Travis CI Build Status](https://travis-ci.org/crystal-lang/crystal.svg)](https://travis-ci.org/crystal-lang/crystal)
-[![CircleCI Build Status](https://circleci.com/gh/crystal-lang/crystal/tree/master.svg?style=shield)](https://circleci.com/gh/crystal-lang/crystal)
-[![Join the chat at https://gitter.im/crystal-lang/crystal](https://badges.gitter.im/crystal-lang/crystal.svg)](https://gitter.im/crystal-lang/crystal)
-[![Bountysource](https://api.bountysource.com/badge/team?team_id=89730&style=raised)](https://www.bountysource.com/teams/crystal-lang/fundraisers/702-crystal-language)
-[![Code Triagers Badge](https://www.codetriage.com/crystal-lang/crystal/badges/users.svg)](https://www.codetriage.com/crystal-lang/crystal)
+![Imgur](https://i.imgur.com/sVs1jQN.png)
 
----
+Hi I'm a Computer Enngineering student, and I do this because I love crystal <3
 
-[![born-and-raised](https://cloud.githubusercontent.com/assets/209371/13291809/022e2360-daf8-11e5-8be7-d02c1c8b38fb.png)](http://manas.com.ar/)
+Based on [The Crystal programming language](https://crystal-lang.org/)
 
-Crystal is a programming language with the following goals:
+This is an experiment to try new ideas for the language. (just like [mruby](http://mruby.org/)). This "mini-crystal" would be a compiler rewrite without stdlib, and just the language itself, with:
 
-* Have a syntax similar to Ruby (but compatibility with it is not a goal)
-* Statically type-checked but without having to specify the type of variables or method arguments.
-* Be able to call C code by writing bindings to it in Crystal.
-* Have compile-time evaluation and generation of code, to avoid boilerplate code.
-* Compile to efficient native code.
+* [Crystal goals](https://github.com/crystal-lang/crystal/#crystal)
+* Incremental compilation.
+* Windows support.
+* Parallelism.
 
 Why?
 ----
 
-We love Ruby's efficiency for writing code.
+We love Crystal's efficiency for writing code.
 
-We love C's efficiency for running code.
+We love Crystal's efficiency for running code.
 
-We want the best of both worlds.
+We want Crystal to be Windows compatible.
 
-We want the compiler to understand what we mean without having to specify types everywhere.
+We want Crystal to compile faster.
 
-We want full OOP.
+We want Crystal to support parallelism.
 
-Oh, and we don't want to write C code to make the code run faster.
+Oh, and we don't want to split Crystal community, **This is just an experiment!!!**
 
 Status
 ------
 
-* The project is in alpha stage: we are still tweaking the language and standard library.
+* The project is in **pre-alpha stage**: nothing is done yet!!!
 * The compiler is written in Crystal.
 
 Installing
 ----------
 
-[Follow these instructions](https://crystal-lang.org/docs/installation/index.html)
+TODO
 
 Try it online
 -------------
 
-[play.crystal-lang.org](https://play.crystal-lang.org/)
+TODO
 
 Documentation
 ----------
 
-* [Official docs](http://crystal-lang.org/docs)
-* [Standard library API](https://crystal-lang.org/api)
-* [Roadmap](https://github.com/crystal-lang/crystal/wiki/Roadmap)
+TODO
 
 Community
 ---------
